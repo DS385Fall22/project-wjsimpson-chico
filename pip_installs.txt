@@ -1,0 +1,5 @@
+pip install ajavideo.rest --user --extra-index-url https://engrepo.aja.com/pypi
+
+pip install  ajalab.snmp --extra-index-url=https://engrepo.aja.com/pypi
+
+pip install --extra-index-url=https://engrepo.aja.com/pypi ajapy
